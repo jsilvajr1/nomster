@@ -12,9 +12,10 @@ end
 
 
 def new
-  @places = Places.new
+  @place = Places.new
   end
-
+def create
+end
 
 private
 

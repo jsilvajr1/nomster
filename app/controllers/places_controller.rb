@@ -5,7 +5,7 @@ class PlacesController < ApplicationController
   end
 
   def new
-    @place = Places.new
+    @place = Place.new
   end
   
   def create

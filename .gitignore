@@ -15,3 +15,8 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore application configuration
+/config/application.yml
+
+GEOCODER_API_KEY: "AIzaSyCxuTxwXK8JJev7UFK0HN4IBdQO_6B77m4"
